@@ -12,3 +12,5 @@ requests
 pillow
 sqlalchemy
 jinja2
+streamlit
+reportlab
