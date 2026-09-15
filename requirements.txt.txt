@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+openpyxl
+xlsxwriter
+fpdf2
+reportlab
+matplotlib
+plotly
+seaborn
+requests
+pillow
+sqlalchemy
+jinja2
